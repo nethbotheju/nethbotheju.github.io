@@ -14,7 +14,7 @@ My curriculum vitae can be found below. Click <a href="../files/cv.pdf" target="
 <style>
   .cv-iframe {
     width: 80%;
-    height: 100vh;
+    height: 800px;
     border: none;
   }
   @media (max-width: 924px) {
